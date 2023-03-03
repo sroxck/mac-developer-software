@@ -6,7 +6,7 @@ hero:
   text: 环境与软件
   tagline: 适用于vue技术栈,基于 Macos Ventura系统
   image:
-    src: /logo.png
+    src: /public/logo.png
     alt: VitePress
   actions:
     - theme: brand
